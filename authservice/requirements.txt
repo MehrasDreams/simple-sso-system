@@ -1,0 +1,6 @@
+Django
+Pillow
+djangorestframework
+djangorestframework-jwt
+redis
+django-cors-headers
